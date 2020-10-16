@@ -4,7 +4,7 @@ module.exports = {
     },
     output: {
         filename: 'main.js',
-        path: __dirname + '/home'
+        path: __dirname + '/leadmanager/frontend/static/frontend/'
     },
     module: {
       rules: [
